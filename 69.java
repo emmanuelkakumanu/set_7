@@ -12,8 +12,8 @@ class Ideone
 		int m=s.nextInt();
 		int k=Math.abs(n-m);
 		if(k%2==0)
-		System.out.println("yes");
+		System.out.println("even");
 		else
-		System.out.println("no");
+		System.out.println("odd");
 	}
 }
